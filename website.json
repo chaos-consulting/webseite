@@ -93,6 +93,22 @@
 		}
 	],
 	"projekte":[
+			{
+			"icon":"",
+			"headline":"Er&oumlffnungsgrillen",
+			"date":"20150530",
+			"time":"1500",
+			"image":"fire.png",
+			"content":"Der Iserlohner Chaostreff l&aumldt seine Mitglieder und benachbarte Chaostreffs zu einem gem&uumltlichen Grillnachmitag mit W&uumlrstchen, Mate und jeder Menge Gespr&aumlche ein. Los geht es am Samstag den 30. Mai um 15 Uhr in der <a href='http://www.openstreetmap.org/?mlat=51.37335&mlon=7.67672#map=19/51.37336/7.67672'>Karl-Arnold-Str. 28 in 58644 Iserlohn <i class='fa fa-map-marker'></i></a><br>Wir m&oumlchten Euch um eine kurze Voranmeldung per Mail an info@chaos-consulting.de bitten, damit wir besser planen k&oumlnnen."
+		},
+		{
+			"icon":"",
+			"headline":"Lost Places - der Reiz des Vergessenen",
+			"date":"20150411",
+			"time":"1600",
+			"image":"lp.png",
+			"content":"Es gibt sie &uumlberall, die Rede ist von vergessenen Orten aus l&aumlngst vergangenen Zeiten. Alte Bahnstrecken, leerstehende Fabriken, verlassene Wohnh&aumluser oder Relikte aus beinahe 3 Weltkriegen. Menschen entdecken diese Orte und halten ihre besondere Atmosph&aumlre mit der Kamera fest immer getreu den Motto 'Take nothing but pictures, leave nothing but footprints'."
+		},
 		{
 			"icon":"wifi",
 			"headline":"Freifunk",
@@ -160,25 +176,39 @@
 			"time":"1900",
 			"image":"cal.png",
 			"content":"Immer am vierten Donnerstag im Monat trifft sich der Iserlohner Chaostreff um 19 Uhr in der <a href='http://www.openstreetmap.org/?mlat=51.37335&mlon=7.67672#map=19/51.37336/7.67672'>Karl-Arnold-Str. 28 in 58644 Iserlohn <i class='fa fa-map-marker'></i></a>. Das Monatliche Treffen ist eine gute M&oumlglichkeit f&uumlr interessierte den Chaostreff einmal n&aumlher kennen zu lernen. Unsere Mitglieder kommen aus dem gesamten M&aumlrkischen Kreis und arbeiten gemeinsam unter anderem an Ihren Projekten, halten Vortr&aumlge und entwickeln neue Projektideen.<br><br>Komm doch einfach mal vorbei!"
-		}
-	],
-	"history":[
-		{
-			"icon":"",
-			"headline":"Er&oumlffnungsgrillen",
-			"date":"20150530",
-			"time":"1500",
-			"image":"fire.png",
-			"content":"Der Iserlohner Chaostreff l&aumldt seine Mitglieder und benachbarte Chaostreffs zu einem gem&uumltlichen Grillnachmitag mit W&uumlrstchen, Mate und jeder Menge Gespr&aumlche ein. Los geht es am Samstag den 30. Mai um 15 Uhr in der <a href='http://www.openstreetmap.org/?mlat=51.37335&mlon=7.67672#map=19/51.37336/7.67672'>Karl-Arnold-Str. 28 in 58644 Iserlohn <i class='fa fa-map-marker'></i></a><br>Wir m&oumlchten Euch um eine kurze Voranmeldung per Mail an info@chaos-consulting.de bitten, damit wir besser planen k&oumlnnen."
 		},
 		{
-			"icon":"",
-			"headline":"Lost Places - der Reiz des Vergessenen",
-			"date":"20150411",
+			"icon":"user-plus",
+			"headline":"Chaostreff",
+			"date":"20150912",
+			"time":"1500",
+			"image":"cal.png",
+			"content":"Immer am zweiten Samstag im Monat trifft sich der Iserlohner Chaostreff um 15 Uhr in der <a href='http://www.openstreetmap.org/?mlat=51.37335&mlon=7.67672#map=19/51.37336/7.67672'>Karl-Arnold-Str. 28 in 58644 Iserlohn <i class='fa fa-map-marker'></i></a>. Das Monatliche Treffen ist eine gute M&oumlglichkeit f&uumlr interessierte den Chaostreff einmal n&aumlher kennen zu lernen. Unsere Mitglieder kommen aus dem gesamten M&aumlrkischen Kreis und arbeiten gemeinsam unter anderem an Ihren Projekten, halten Vortr&aumlge und entwickeln neue Projektideen.<br><br>Komm doch einfach mal vorbei!"
+		},
+		{
+			"icon":"book",
+			"headline":"Pentesting ",
+			"date":"20150912",
 			"time":"1600",
-			"image":"lp.png",
-			"content":"Es gibt sie &uumlberall, die Rede ist von vergessenen Orten aus l&aumlngst vergangenen Zeiten. Alte Bahnstrecken, leerstehende Fabriken, verlassene Wohnh&aumluser oder Relikte aus beinahe 3 Weltkriegen. Menschen entdecken diese Orte und halten ihre besondere Atmosph&aumlre mit der Kamera fest immer getreu den Motto 'Take nothing but pictures, leave nothing but footprints'."
-		}
+			"image":"cal.png",
+			"content":"Penetration Testing ist mehr als Hacken. Pentester sind im Auftrag von zum Beispiel Unternehmen unterwegs um Sicherheitslücken in deren Infrastruktur aufzuspüren und zu dokumentieren. Dieser Vortrag bringt uns den Papierkram zu Sicherheitslücken näher."
+		},
+		{
+			"icon":"user-plus",
+			"headline":"Chaostreff",
+			"date":"20150924",
+			"time":"1900",
+			"image":"cal.png",
+			"content":"Immer am vierten Donnerstag im Monat trifft sich der Iserlohner Chaostreff um 19 Uhr in der <a href='http://www.openstreetmap.org/?mlat=51.37335&mlon=7.67672#map=19/51.37336/7.67672'>Karl-Arnold-Str. 28 in 58644 Iserlohn <i class='fa fa-map-marker'></i></a>. Das Monatliche Treffen ist eine gute M&oumlglichkeit f&uumlr interessierte den Chaostreff einmal n&aumlher kennen zu lernen. Unsere Mitglieder kommen aus dem gesamten M&aumlrkischen Kreis und arbeiten gemeinsam unter anderem an Ihren Projekten, halten Vortr&aumlge und entwickeln neue Projektideen.<br><br>Komm doch einfach mal vorbei!"
+		},
+		{
+			"icon":"user-plus",
+			"headline":"Chaostreff",
+			"date":"20151010",
+			"time":"1500",
+			"image":"cal.png",
+			"content":"Immer am zweiten Samstag im Monat trifft sich der Iserlohner Chaostreff um 15 Uhr in der <a href='http://www.openstreetmap.org/?mlat=51.37335&mlon=7.67672#map=19/51.37336/7.67672'>Karl-Arnold-Str. 28 in 58644 Iserlohn <i class='fa fa-map-marker'></i></a>. Das Monatliche Treffen ist eine gute M&oumlglichkeit f&uumlr interessierte den Chaostreff einmal n&aumlher kennen zu lernen. Unsere Mitglieder kommen aus dem gesamten M&aumlrkischen Kreis und arbeiten gemeinsam unter anderem an Ihren Projekten, halten Vortr&aumlge und entwickeln neue Projektideen.<br><br>Komm doch einfach mal vorbei!"
+		},
 	],
 	"mehr":[
 		{
