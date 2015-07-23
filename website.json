@@ -93,22 +93,6 @@
 		}
 	],
 	"projekte":[
-			{
-			"icon":"",
-			"headline":"Er&oumlffnungsgrillen",
-			"date":"20150530",
-			"time":"1500",
-			"image":"fire.png",
-			"content":"Der Iserlohner Chaostreff l&aumldt seine Mitglieder und benachbarte Chaostreffs zu einem gem&uumltlichen Grillnachmitag mit W&uumlrstchen, Mate und jeder Menge Gespr&aumlche ein. Los geht es am Samstag den 30. Mai um 15 Uhr in der <a href='http://www.openstreetmap.org/?mlat=51.37335&mlon=7.67672#map=19/51.37336/7.67672'>Karl-Arnold-Str. 28 in 58644 Iserlohn <i class='fa fa-map-marker'></i></a><br>Wir m&oumlchten Euch um eine kurze Voranmeldung per Mail an info@chaos-consulting.de bitten, damit wir besser planen k&oumlnnen."
-		},
-		{
-			"icon":"",
-			"headline":"Lost Places - der Reiz des Vergessenen",
-			"date":"20150411",
-			"time":"1600",
-			"image":"lp.png",
-			"content":"Es gibt sie &uumlberall, die Rede ist von vergessenen Orten aus l&aumlngst vergangenen Zeiten. Alte Bahnstrecken, leerstehende Fabriken, verlassene Wohnh&aumluser oder Relikte aus beinahe 3 Weltkriegen. Menschen entdecken diese Orte und halten ihre besondere Atmosph&aumlre mit der Kamera fest immer getreu den Motto 'Take nothing but pictures, leave nothing but footprints'."
-		},
 		{
 			"icon":"wifi",
 			"headline":"Freifunk",
@@ -129,6 +113,22 @@
 		}
 	],
 	"termine":[
+			{
+			"icon":"",
+			"headline":"Er&oumlffnungsgrillen",
+			"date":"20150530",
+			"time":"1500",
+			"image":"fire.png",
+			"content":"Der Iserlohner Chaostreff l&aumldt seine Mitglieder und benachbarte Chaostreffs zu einem gem&uumltlichen Grillnachmitag mit W&uumlrstchen, Mate und jeder Menge Gespr&aumlche ein. Los geht es am Samstag den 30. Mai um 15 Uhr in der <a href='http://www.openstreetmap.org/?mlat=51.37335&mlon=7.67672#map=19/51.37336/7.67672'>Karl-Arnold-Str. 28 in 58644 Iserlohn <i class='fa fa-map-marker'></i></a><br>Wir m&oumlchten Euch um eine kurze Voranmeldung per Mail an info@chaos-consulting.de bitten, damit wir besser planen k&oumlnnen."
+		},
+		{
+			"icon":"",
+			"headline":"Lost Places - der Reiz des Vergessenen",
+			"date":"20150411",
+			"time":"1600",
+			"image":"lp.png",
+			"content":"Es gibt sie &uumlberall, die Rede ist von vergessenen Orten aus l&aumlngst vergangenen Zeiten. Alte Bahnstrecken, leerstehende Fabriken, verlassene Wohnh&aumluser oder Relikte aus beinahe 3 Weltkriegen. Menschen entdecken diese Orte und halten ihre besondere Atmosph&aumlre mit der Kamera fest immer getreu den Motto 'Take nothing but pictures, leave nothing but footprints'."
+		},
 		{
 			"icon":"user-plus",
 			"headline":"Chaostreff",
