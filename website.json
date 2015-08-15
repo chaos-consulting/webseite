@@ -162,12 +162,12 @@
 			"content":"Immer am zweiten Samstag im Monat trifft sich der Iserlohner Chaostreff um 15 Uhr in der <a href='http://www.openstreetmap.org/?mlat=51.37335&mlon=7.67672#map=19/51.37336/7.67672'>Karl-Arnold-Str. 28 in 58644 Iserlohn <i class='fa fa-map-marker'></i></a>. Das Monatliche Treffen ist eine gute M&oumlglichkeit f&uumlr interessierte den Chaostreff einmal n&aumlher kennen zu lernen. Unsere Mitglieder kommen aus dem gesamten M&aumlrkischen Kreis und arbeiten gemeinsam unter anderem an Ihren Projekten, halten Vortr&aumlge und entwickeln neue Projektideen.<br><br>Komm doch einfach mal vorbei!"
 		},
 		{
-			"icon":"male",
-			"headline":"Social Engineering",
+			"icon":"wifi",
+			"headline":"Freifunk Backbone",
 			"date":"20150808",
 			"time":"1600",
-			"image":"cal.png",
-			"content":"Ein spannender Vortrag &uuml;ber die Sicherheitsl&uuml;cke Mensch. Bekannt geworden durch Kevin Mitnick gibt es den Bereich des Social Engineering schon viel l&aumlnger. Dieser Vortrag soll einen &Uumlberblick &uumlber die verschiedenen Methoden geben, denn nur wer die Techniken der Angreifer kennt kann sich erfolgreich sch&uumltzen."
+			"image":"freifunk.png",
+			"content":"Wie funktioniert die Technik im Hintergrund? Was ist geplant in der Domäne Fichtenfunk? Diese und weitere Fragen zum Freifunk werden wir in diesem Vortrag über das Fichtenfunk Backbone beantworten."
 		},
 		{
 			"icon":"user-plus",
@@ -186,12 +186,12 @@
 			"content":"Immer am zweiten Samstag im Monat trifft sich der Iserlohner Chaostreff um 15 Uhr in der <a href='http://www.openstreetmap.org/?mlat=51.37335&mlon=7.67672#map=19/51.37336/7.67672'>Karl-Arnold-Str. 28 in 58644 Iserlohn <i class='fa fa-map-marker'></i></a>. Das Monatliche Treffen ist eine gute M&oumlglichkeit f&uumlr interessierte den Chaostreff einmal n&aumlher kennen zu lernen. Unsere Mitglieder kommen aus dem gesamten M&aumlrkischen Kreis und arbeiten gemeinsam unter anderem an Ihren Projekten, halten Vortr&aumlge und entwickeln neue Projektideen.<br><br>Komm doch einfach mal vorbei!"
 		},
 		{
-			"icon":"book",
-			"headline":"Pentesting ",
+			"icon":"male",
+			"headline":"Social Engineering",
 			"date":"20150912",
 			"time":"1600",
 			"image":"cal.png",
-			"content":"Penetration Testing ist mehr als Hacken. Pentester sind im Auftrag von zum Beispiel Unternehmen unterwegs um Sicherheitslücken in deren Infrastruktur aufzuspüren und zu dokumentieren. Dieser Vortrag bringt uns den Papierkram zu Sicherheitslücken näher."
+			"content":"Ein spannender Vortrag &uuml;ber die Sicherheitsl&uuml;cke Mensch. Bekannt geworden durch Kevin Mitnick gibt es den Bereich des Social Engineering schon viel l&aumlnger. Dieser Vortrag soll einen &Uumlberblick &uumlber die verschiedenen Methoden geben, denn nur wer die Techniken der Angreifer kennt kann sich erfolgreich sch&uumltzen."
 		},
 		{
 			"icon":"user-plus",
@@ -208,6 +208,30 @@
 			"time":"1500",
 			"image":"cal.png",
 			"content":"Immer am zweiten Samstag im Monat trifft sich der Iserlohner Chaostreff um 15 Uhr in der <a href='http://www.openstreetmap.org/?mlat=51.37335&mlon=7.67672#map=19/51.37336/7.67672'>Karl-Arnold-Str. 28 in 58644 Iserlohn <i class='fa fa-map-marker'></i></a>. Das Monatliche Treffen ist eine gute M&oumlglichkeit f&uumlr interessierte den Chaostreff einmal n&aumlher kennen zu lernen. Unsere Mitglieder kommen aus dem gesamten M&aumlrkischen Kreis und arbeiten gemeinsam unter anderem an Ihren Projekten, halten Vortr&aumlge und entwickeln neue Projektideen.<br><br>Komm doch einfach mal vorbei!"
+		},
+		{
+			"icon":"book",
+			"headline":"Pentesting ",
+			"date":"20150912",
+			"time":"1600",
+			"image":"cal.png",
+			"content":"Penetration Testing ist mehr als Hacken. Pentester sind im Auftrag von zum Beispiel Unternehmen unterwegs um Sicherheitslücken in deren Infrastruktur aufzuspüren und zu dokumentieren. Dieser Vortrag bringt uns den Papierkram zu Sicherheitslücken näher."
+		},
+		{
+			"icon":"user-plus",
+			"headline":"Chaostreff",
+			"date":"20151114",
+			"time":"1500",
+			"image":"cal.png",
+			"content":"Immer am zweiten Samstag im Monat trifft sich der Iserlohner Chaostreff um 15 Uhr in der <a href='http://www.openstreetmap.org/?mlat=51.37335&mlon=7.67672#map=19/51.37336/7.67672'>Karl-Arnold-Str. 28 in 58644 Iserlohn <i class='fa fa-map-marker'></i></a>. Das Monatliche Treffen ist eine gute M&oumlglichkeit f&uumlr interessierte den Chaostreff einmal n&aumlher kennen zu lernen. Unsere Mitglieder kommen aus dem gesamten M&aumlrkischen Kreis und arbeiten gemeinsam unter anderem an Ihren Projekten, halten Vortr&aumlge und entwickeln neue Projektideen.<br><br>Komm doch einfach mal vorbei!"
+		},
+		{
+			"icon":"book",
+			"headline":"Howto Virtuelle Server",
+			"date":"20151114",
+			"time":"1600",
+			"image":"cal.png",
+			"content":"Eine Einführung in die Welt der Servervirtualisierung und Netzwerksicherheit. Wir behandeln die Einrichtung von Proxmox als Hypervisor, IPFire als Firewall und Ubuntu Server als Betriebssystem. Anschließend zeigen wir die Einrichtung vom Apache Webserver mit PHP5 und Mysql Datenbank."
 		}
 	],
 	"mehr":[
