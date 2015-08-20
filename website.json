@@ -246,7 +246,7 @@
 			"icon":"bar-chart",
 			"headline":"Status",
 			"image":"led.png",
-			"content":"!!raumstatus<br><br>!!freifunk"
+			"content":"!raumstatus<br><br>!freifunk"
 		},
 		{
 			"icon":"link",
