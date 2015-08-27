@@ -39,6 +39,11 @@
 			"icon":"github",
 			"name":"Github",
 			"url":"https://github.com/jjx-/chaos-consulting"
+		},
+		{
+			"icon":"shopping-cart",
+			"name":"Spreadshirt",
+			"url":"http://shop.spreadshirt.de/c2is"
 		}
 	],
 	"navibar":[
