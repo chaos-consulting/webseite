@@ -215,12 +215,12 @@
 			"content":"Immer am zweiten Samstag im Monat trifft sich der Iserlohner Chaostreff um 15 Uhr in der <a href='http://www.openstreetmap.org/?mlat=51.37335&mlon=7.67672#map=19/51.37336/7.67672'>Karl-Arnold-Str. 28 in 58644 Iserlohn <i class='fa fa-map-marker'></i></a>. Das Monatliche Treffen ist eine gute M&oumlglichkeit f&uumlr interessierte den Chaostreff einmal n&aumlher kennen zu lernen. Unsere Mitglieder kommen aus dem gesamten M&aumlrkischen Kreis und arbeiten gemeinsam unter anderem an Ihren Projekten, halten Vortr&aumlge und entwickeln neue Projektideen.<br><br>Komm doch einfach mal vorbei!"
 		},
 		{
-			"icon":"book",
-			"headline":"Pentesting ",
+			"icon":"map",
+			"headline":"Openstreetmap Tag ",
 			"date":"20151010",
 			"time":"1600",
 			"image":"cal.png",
-			"content":"Penetration Testing ist mehr als Hacken. Pentester sind im Auftrag von zum Beispiel Unternehmen unterwegs um Sicherheitslücken in deren Infrastruktur aufzuspüren und zu dokumentieren. Dieser Vortrag bringt uns den Papierkram zu Sicherheitslücken näher."
+			"content":"Wir erklären was Openstreetmap ist und wie man selber zur 'Wikiweltkarte' beitragen kann. Anschließend setzen wir das gelernte in die Tat um und gehen los um die Karte in unserer Stadt ein Stück zu verbessern."
 		},
 		{
 			"icon":"user-plus",
@@ -237,6 +237,22 @@
 			"time":"1600",
 			"image":"cal.png",
 			"content":"Eine Einführung in die Welt der Servervirtualisierung und Netzwerksicherheit. Wir behandeln die Einrichtung von Proxmox als Hypervisor, IPFire als Firewall und Ubuntu Server als Betriebssystem. Anschließend zeigen wir die Einrichtung vom Apache Webserver mit PHP5 und Mysql Datenbank."
+		},
+		{
+			"icon":"key",
+			"headline":"Lockpicking",
+			"date":"20151212",
+			"time":"1600",
+			"image":"cal.png",
+			"content":"Tür zugefallen und Schlüssel vergessen? Wir schauen was der Schlüsseldienst tut und was man selbst tun kann. Ausserdem zeigen wir warum Zahlenschlösser oft unsicher sind und warum der billigste Schließzylinder nicht unbedingt erste Wahl ist. Abschließend stellen wir verschiedene Schließsysteme vor mit denen jeder seine Wohnung ein Stückchen sicherer machen kann."
+		},
+		{
+			"icon":"book",
+			"headline":"Pentesting",
+			"date":"20150109",
+			"time":"1600",
+			"image":"cal.png",
+			"content":"Penetration Testing ist mehr als Hacken. Pentester sind im Auftrag von zum Beispiel Unternehmen unterwegs um Sicherheitslücken in deren Infrastruktur aufzuspüren und zu dokumentieren. Dieser Vortrag bringt uns den Papierkram zu Sicherheitslücken näher."
 		}
 	],
 	"mehr":[
