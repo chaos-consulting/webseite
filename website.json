@@ -247,20 +247,20 @@
 			"content":"Tür zugefallen und Schlüssel vergessen? Wir schauen was der Schlüsseldienst tut und was man selbst tun kann. Ausserdem zeigen wir warum Zahlenschlösser oft unsicher sind und warum der billigste Schließzylinder nicht unbedingt erste Wahl ist. Abschließend stellen wir verschiedene Schließsysteme vor mit denen jeder seine Wohnung ein Stückchen sicherer machen kann."
 		},
 		{
-			"icon":"lock",
-			"headline":"Smartcards unter Linux",
-			"date":"20160109",
-			"time":"1600",
-			"image":"cal.png",
-			"content":"Praktische Anwendungsfälle für den Einsatz von Smartcards unter Linux. Am Beispiel einer OpenPGP-Card und eines Hardware Security Modules soll gezeigt werden, wie man sich am System authentifzieren kann und wie man die 2-Faktor-Authentifizierung auch für SSH nutzen kann. Weiterhin wird die Anwendung der OpenPGP-Card für die Verschlüsselung gezeigt."
-		},
-		{
 			"icon":"book",
 			"headline":"Pentesting",
 			"date":"20150109",
 			"time":"1600",
 			"image":"cal.png",
 			"content":"Penetration Testing ist mehr als Hacken. Pentester sind im Auftrag von zum Beispiel Unternehmen unterwegs um Sicherheitslücken in deren Infrastruktur aufzuspüren und zu dokumentieren. Dieser Vortrag bringt uns den Papierkram zu Sicherheitslücken näher."
+		},
+		{
+			"icon":"lock",
+			"headline":"Smartcards unter Linux",
+			"date":"20160109",
+			"time":"1600",
+			"image":"cal.png",
+			"content":"Praktische Anwendungsfälle für den Einsatz von Smartcards unter Linux. Am Beispiel einer OpenPGP-Card und eines Hardware Security Modules soll gezeigt werden, wie man sich am System authentifzieren kann und wie man die 2-Faktor-Authentifizierung auch für SSH nutzen kann. Weiterhin wird die Anwendung der OpenPGP-Card für die Verschlüsselung gezeigt."
 		}
 	],
 	"mehr":[
