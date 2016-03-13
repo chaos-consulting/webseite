@@ -271,14 +271,6 @@
 			"content":"Immer am vierten Donnerstag im Monat trifft sich der Iserlohner Chaostreff um 19 Uhr in der <a href='http://www.openstreetmap.org/?mlat=51.37335&mlon=7.67672#map=19/51.37336/7.67672'>Karl-Arnold-Str. 28 in 58644 Iserlohn <i class='fa fa-map-marker'></i></a>. Das monatliche Treffen ist eine gute Möglichkeit für Interessierte den Chaostreff einmal näher kennen zu lernen. Unsere Mitglieder kommen aus dem gesamten Märkischen Kreis und arbeiten gemeinsam unter anderem an ihren Projekten, halten Vorträge und entwickeln neue Projektideen.<br><br>Komm doch einfach mal vorbei!"
 		},
 		{
-			"icon":"user-plus",
-			"headline":"Chaostreff",
-			"date":"20160324",
-			"time":"1900",
-			"image":"cal.png",
-			"content":"Immer am vierten Donnerstag im Monat trifft sich der Iserlohner Chaostreff um 19 Uhr in der <a href='http://www.openstreetmap.org/?mlat=51.37434&mlon=7.69807#map=19/51.37434/7.69807'>Alter Rathausplatz 12 in 58636 Iserlohn <i class='fa fa-map-marker'></i></a>. Das monatliche Treffen ist eine gute Möglichkeit für Interessierte den Chaostreff einmal näher kennen zu lernen. Unsere Mitglieder kommen aus dem gesamten Märkischen Kreis und arbeiten gemeinsam unter anderem an ihren Projekten, halten Vorträge und entwickeln neue Projektideen.<br><br>Komm doch einfach mal vorbei!"
-		},
-		{
 			"icon":"key",
 			"headline":"Lockpicking",
 			"date":"20151212",
@@ -309,6 +301,30 @@
 			"time":"1600",
 			"image":"cal.png",
 			"content":"Praktische Anwendungsfälle für den Einsatz von Smartcards unter Linux. Am Beispiel einer OpenPGP-Card und eines Hardware Security Modules soll gezeigt werden, wie man sich am System authentifzieren kann und wie man die 2-Faktor-Authentifizierung auch für SSH nutzen kann. Weiterhin wird die Anwendung der OpenPGP-Card für die Verschlüsselung gezeigt."
+		},
+		{
+			"icon":"user-plus",
+			"headline":"Chaostreff",
+			"date":"20160324",
+			"time":"1900",
+			"image":"cal.png",
+			"content":"Immer am vierten Donnerstag im Monat trifft sich der Iserlohner Chaostreff um 19 Uhr in der <a href='https://www.openstreetmap.org/#map=19/51.37433/7.69824'>Alter Rathausplatz 12 in 58636 Iserlohn <i class='fa fa-map-marker'></i></a>. Das monatliche Treffen ist eine gute Möglichkeit für Interessierte den Chaostreff einmal näher kennen zu lernen. Unsere Mitglieder kommen aus dem gesamten Märkischen Kreis und arbeiten gemeinsam unter anderem an ihren Projekten, halten Vorträge und entwickeln neue Projektideen.<br><br>Komm doch einfach mal vorbei!"
+		},
+		{
+			"icon":"user-plus",
+			"headline":"Chaostreff",
+			"date":"20160428",
+			"time":"1900",
+			"image":"cal.png",
+			"content":"Immer am vierten Donnerstag im Monat trifft sich der Iserlohner Chaostreff um 19 Uhr in der <a href='https://www.openstreetmap.org/#map=19/51.37433/7.69824'>Alter Rathausplatz 12 in 58636 Iserlohn <i class='fa fa-map-marker'></i></a>. Das monatliche Treffen ist eine gute Möglichkeit für Interessierte den Chaostreff einmal näher kennen zu lernen. Unsere Mitglieder kommen aus dem gesamten Märkischen Kreis und arbeiten gemeinsam unter anderem an ihren Projekten, halten Vorträge und entwickeln neue Projektideen.<br><br>Komm doch einfach mal vorbei!"
+		},
+		{
+			"icon":"user-plus",
+			"headline":"Chaostreff",
+			"date":"20160526",
+			"time":"1900",
+			"image":"cal.png",
+			"content":"Immer am vierten Donnerstag im Monat trifft sich der Iserlohner Chaostreff um 19 Uhr in der <a href='https://www.openstreetmap.org/#map=19/51.37433/7.69824'>Alter Rathausplatz 12 in 58636 Iserlohn <i class='fa fa-map-marker'></i></a>. Das monatliche Treffen ist eine gute Möglichkeit für Interessierte den Chaostreff einmal näher kennen zu lernen. Unsere Mitglieder kommen aus dem gesamten Märkischen Kreis und arbeiten gemeinsam unter anderem an ihren Projekten, halten Vorträge und entwickeln neue Projektideen.<br><br>Komm doch einfach mal vorbei!"
 		}
 	],
 	"mehr":[
