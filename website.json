@@ -78,7 +78,7 @@
 			"icon":"",
 			"headline":"Willkommen bei Chaos Consulting e.V.",
 			"image":"amp.png",
-			"content":"Als lokaler Chaostreff bieten wir unseren Mitgliedern in Iserlohn die Möglichkeit sich über Technik und andere Themen auszutauschen, gemeinsam an Projekten zu arbeiten und Vorträge zu halten. Wir möchten allen Menschen und vorallem Jugendlichen kostenlos technisches Wissen vermitteln und zum Selber machen anregen.<br> Muss ich den defekten Laptop wirklich wegwerfen oder kann man damit noch was machen? Wie sichere ich meinen PC ab? Was tun wenn der Strom ausfällt? das und vieles mehr sind Fragen für die wir gemeinsam Lösungen erarbeiten.<br> Technik verstehen und selber basteln statt nur Konsumieren...<br><br>...das ist unser Ziel!"
+			"content":"<b>Es ist geschafft, Chaosconsulting hat ein neues Zuhause!</b><br>Ab sofort findet ihr uns am alten Rathausplatz 12 über der Engelapotheke, der Zugang liegt an der Wermingser Straße.<br><br>Besucht uns einfach mal während unserer Öffnungszeiten:<br><ul><li>jeden Mittwoch von 17:30-21:30  Allgemeines Basteln und OpenSource-Themen</li><li>am 2. Samstag im Monat am 15 Uhr Vortrag mit wechselndem Thema ab 16 Uhr</li><li>am 4. Donnerstag im Monat am 19 Uhr Freifunk Treffen</li></ul><br><img src='gfx/aussen.jpg', width='320', height='180'><img src='gfx/innen.jpg', width='320', height='180'><a href='map.php'><img src='gfx/map.jpg', width='320', height='180'></a>"
 		}
 	],
 	"contribute":[
@@ -86,7 +86,7 @@
 			"icon":"",
 			"headline":"Willkommen bei Chaos Consulting e.V.",
 			"image":"amp.png",
-			"content":"<b>Es ist geschafft, Chaosconsulting hat ein neues Zuhause!</b><br>Ab sofort findet ihr uns am alten Rathausplatz 12 über der Engelapotheke, der Zugang liegt an der Wermingser Straße.<br><br>Besucht uns einfach mal während unserer Öffnungszeiten:<br><ul><li>jeden Mittwoch von 17:30-21:30  Allgemeines Basteln und OpenSource-Themen</li><li>am 2. Samstag im Monat am 15 Uhr Vortrag mit wechselndem Thema ab 16 Uhr</li><li>am 4. Donnerstag im Monat am 19 Uhr Freifunk Treffen</li></ul><br><img src='gfx/aussen.jpg', width='384', height='216'><img src='gfx/innen.jpg', width='384', height='216'><a href='map.php'><img src='gfx/map.jpg', width='384', height='216'></a>"
+			"content":"Als lokaler Chaostreff bieten wir unseren Mitgliedern in Iserlohn die Möglichkeit sich über Technik und andere Themen auszutauschen, gemeinsam an Projekten zu arbeiten und Vorträge zu halten. Wir möchten allen Menschen und vorallem Jugendlichen kostenlos technisches Wissen vermitteln und zum Selber machen anregen.<br> Muss ich den defekten Laptop wirklich wegwerfen oder kann man damit noch was machen? Wie sichere ich meinen PC ab? Was tun wenn der Strom ausfällt? das und vieles mehr sind Fragen für die wir gemeinsam Lösungen erarbeiten.<br> Technik verstehen und selber basteln statt nur Konsumieren...<br><br>...das ist unser Ziel!"
 		}
 	],
 	"contact":[
