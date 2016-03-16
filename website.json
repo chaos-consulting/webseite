@@ -336,10 +336,16 @@
 			"url":"index.php"
 		},
 		{
-			"icon":"bar-chart",
-			"headline":"Status",
+			"icon":"institution",
+			"headline":"Verein",
 			"image":"led.png",
-			"content":"!!raumstatus<br><br>!!freifunk"
+			"content":"<a href='http://chaos-consulting.de/verein/satzung.pdf'>Satzung</a><br><br><a href='http://chaos-consulting.de/verein/antrag.pdf'>Mitgliedsantrag</a><br><br><a href='http://chaos-consulting.de/verein/sepa.pdf'>Sepa Formular</a>"
+		},
+		{
+			"icon":"eur",
+			"headline":"Spenden",
+			"image":"led.png",
+			"content":"IBAN: DE96450600090732544900<br>BIC: GENODEM1HGN<br>Kontoinhaber: Chaos Consulting e.V.<br>Verwendungszweck: Infrastruktur"
 		},
 		{
 			"icon":"link",
