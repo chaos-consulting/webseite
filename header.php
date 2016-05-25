@@ -1,3 +1,6 @@
+<?php
+	require_once('markdown-extended-0.1.0-delta/src/bootstrap.php');
+?>
 <head>
 	<title>Chaos Consulting e.V.</title>
 	<link rel="icon" href="favicon.ico" type="image/x-icon">
@@ -8,6 +11,7 @@
 	<div id="navibar">
 		<div id="navcenter">
 		<?php
+
 			$mydirname = 'pages/';
 			$dir = new DirectoryIterator($mydirname);
 			foreach ($dir as $fileinfo) {

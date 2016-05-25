@@ -3,5 +3,11 @@
 	include("header.php");
 ?>
 	<div class="contentbox">
-		<h2><?php echo strtoupper($page); ?></h2>
+		<?php
+		use \MarkdownExtended\MarkdownExtended;
+		$options = array();
+		$content = MarkdownExtended::parseSource('pages/' . $page . '/content.md', $options);
+		echo '<h2 style="background-image:url(pages/'.$page .'/' . $content->getMetadata()['image'].')">' . strtoupper($content->getMetadata()['headline']) . '</h2>';
+		echo $content->getBody();
+		?>
 	</div>
