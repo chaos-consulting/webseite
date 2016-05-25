@@ -1,7 +1,6 @@
----
 headline: Impressum
 image: 'amp.png'
----
+
 ### Angaben gemäß § 5 TMG:
 
 Julian Bogdanski    
