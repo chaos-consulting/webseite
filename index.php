@@ -22,5 +22,5 @@
 	echo '<div class="rightbar">';
 	include('sidebar.php');
 	echo '</div>';
-	
+	include('footer.php');
 ?>
