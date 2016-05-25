@@ -1,8 +1,6 @@
----
 icon: home
 headline: Home
 image: led.png
----
 
 <ul class="sidebar">
     <li class="fa fa-envelope-o"><a href="mailto:info@chaos-consulting.de">info@chaos-consulting.de</a></li>
