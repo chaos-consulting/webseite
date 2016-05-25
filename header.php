@@ -6,7 +6,7 @@
 	<title>Chaos Consulting e.V.</title>
 	<link rel="icon" href="favicon.ico" type="image/x-icon">
 	<link href="css/main.css" type="text/css" rel="stylesheet">
-	<link rel="stylesheet" href="/font-awesome/css/font-awesome.min.css">
+	<link rel="stylesheet" href="/css/font-awesome-4.6.3/css/font-awesome.min.css">
 </head>
 <body>
 	<div id="navibar">
