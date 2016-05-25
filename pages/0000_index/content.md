@@ -1,4 +1,4 @@
-name: index
+name: <img src="http://chaos-consulting.de/gfx/cc_header.png">
 image: amp.png
 headline: Willkommen bei Chaos Consulting e.V.
 
