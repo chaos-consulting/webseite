@@ -1,0 +1,8 @@
+version: "2"
+
+services:
+  webseite:
+    image: c2is/webseite
+    build: .
+    ports:
+      - "8080:80"

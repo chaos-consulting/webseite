@@ -2,16 +2,10 @@
 
 ## Lokale Entwicklungsumgebung
 
-Das Image lokal bauen:
+Entwicklungsumgebung starten:
 
 ```
-docker build -t c2is/webseite .
-```
-
-Das gebaute Image starten:
-
-```
-docker run -p 8080:80 c2is/webseite
+docker-compose up
 ```
 
 ## Sonstiges
