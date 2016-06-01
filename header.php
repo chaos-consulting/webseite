@@ -5,6 +5,7 @@
 <!doctype html>
 <html>
 <head>
+    <meta charset="utf-8">
 	<title>Chaos Consulting e.V.</title>
 	<link rel="icon" href="favicon.ico" type="image/x-icon">
 	<link href="css/main.css" type="text/css" rel="stylesheet">
