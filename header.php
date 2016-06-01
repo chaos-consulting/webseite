@@ -2,6 +2,8 @@
 	require_once('markdown-extended-0.1.0-delta/src/bootstrap.php');
 	use \MarkdownExtended\MarkdownExtended;
 ?>
+<!doctype html>
+<html>
 <head>
 	<title>Chaos Consulting e.V.</title>
 	<link rel="icon" href="favicon.ico" type="image/x-icon">
