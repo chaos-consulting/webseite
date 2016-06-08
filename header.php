@@ -8,6 +8,8 @@
     <meta charset="utf-8">
 	<title>Chaos Consulting e.V.</title>
 	<link rel="icon" href="favicon.ico" type="image/x-icon">
+	<link href="css/normalize.css" type="text/css" rel="stylesheet">
+	<link href="css/skeleton.css" type="text/css" rel="stylesheet">
 	<link href="css/main.css" type="text/css" rel="stylesheet">
 	<link rel="stylesheet" href="/css/font-awesome-4.6.3/css/font-awesome.min.css">
 </head>

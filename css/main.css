@@ -117,22 +117,3 @@ ul.links {
 	list-style: none;
 	padding: 0;
 }
-
-ul.links > li {
-	display: block;
-	padding: 5px 0;
-	width: 100%;
-}
-
-ul.links > li > i {
-	display: inline-block;
-	text-align: center;
-	vertical-align: top;
-	width: 30px;
-}
-
-ul.links > li > a {
-	display: inline-block;
-	padding-left: 10px;
-	width: 270px;
-}
