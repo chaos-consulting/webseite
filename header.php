@@ -24,7 +24,8 @@
 					$options = array();
 					try {
 						$content = MarkdownExtended::parseSource('pages/' . $fileinfo . '/content.md', $options);
-						echo '<div class="navibarbutton"><a href="index.php?p='.$fileinfo.'">'. $content->getMetadata()['name'] .'</a></div>';
+                        $underline_pos = strpos($fileinfo, "_");
+						echo '<div class="navibarbutton"><a href="'.substr($fileinfo,$underline_pos+1).'.html">'. $content->getMetadata()['name'] .'</a></div>';
 					} catch (Exception $e) {}
 				}
 			}

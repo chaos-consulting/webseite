@@ -1,7 +1,7 @@
 <?php
 	$page = $_GET["p"];
 	if ($page == "") {
-		$page = '0000_index';
+		$page = 'index';
 	}
 	include("header.php");
 	echo '<div class="mainbox">';
@@ -9,7 +9,12 @@
 	$options = array();
 	use \MarkdownExtended\MarkdownExtended;
 	try {
-		$content = MarkdownExtended::parseSource('pages/' . $page . '/content.md', $options);
+        $folders = glob("pages/*_".$page, GLOB_ONLYDIR);
+        if(count($folders) != 1) {
+            throw new Exception('Not a distinct folder');
+        }
+
+		$content = MarkdownExtended::parseSource($folders[0] . '/content.md', $options);
 	} catch(Exception $e) {
 		echo '<a href="/">Oops! Das hätte nicht passieren dürfen!</a>';
 		exit();

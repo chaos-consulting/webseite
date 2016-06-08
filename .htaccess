@@ -1,0 +1,6 @@
+Options +FollowSymLinks
+Options -Indexes  -MultiViews
+RewriteEngine on
+
+RewriteRule (.*)\.html$ /index.php?p=$1
+
