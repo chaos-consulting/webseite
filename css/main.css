@@ -115,6 +115,7 @@ h2{
 
 ul.links {
 	list-style: none;
+	padding: 0;
 }
 
 ul.links > li {
@@ -133,5 +134,5 @@ ul.links > li > i {
 ul.links > li > a {
 	display: inline-block;
 	padding-left: 10px;
-	width: 246px;
+	width: 270px;
 }
