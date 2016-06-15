@@ -29,6 +29,8 @@
 					} catch (Exception $e) {}
 				}
 			}
+
+            echo '<div class="navibarbutton"><a href="projekte.html">Projekte</a></div>';
 			//Navibar Ende
 		?>
 		</div>
