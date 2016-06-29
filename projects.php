@@ -3,8 +3,6 @@ require_once __DIR__ . "/xmlrpc/Autoloader.php";
 
 PhpXmlRpc\Autoloader::register();
 
-echo "Dies ist die Projekt-Seite";
-
 $namespace = new PhpXmlRpc\Value("projekte");
 
 $req = new PhpXmlRpc\Request('dokuwiki.getPagelist', array($namespace));
@@ -26,9 +24,17 @@ if(!$resp->faultCode()) {
         if(substr_count($projekt_id, ":")<2)
             continue;
 
-        echo "<div>";
+        echo "<div class='contentbox'>";
         echo "Projekt: " . $projekt_id . " ";
         print_r($projekt);
+
+        $v_page_name = new PhpXmlRpc\Value($projekt_id);
+        $page_req = new PhpXmlRpc\Request('wiki.getPageHTML', array($v_page_name));
+        $page_resp = $client->send($page_req);
+
+        if(!$page_resp->faultCode()) {
+            print_r($encoder->decode($page_resp->value()));
+        }
         echo "</div>";
     }
 } else {
