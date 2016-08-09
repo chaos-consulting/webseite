@@ -21,11 +21,6 @@
 			"url":"https://webchat.freenode.net/?randomnick=1&channels=%23chaosconsulting&uio=d4"
 		},
 		{
-			"icon":"comments-o",
-			"name":"c2is@conference.jabber.chaos-consulting.de",
-			"url":"xmpp://c2is@conference.jabber.chaos-consulting.de"
-		},
-		{
 			"icon":"calendar",
 			"name":"Termine Abbonieren (.ical)",
 			"url":"http://chaos-consulting.de/feeds/ical"
@@ -78,7 +73,7 @@
 			"icon":"",
 			"headline":"Willkommen bei Chaos Consulting e.V.",
 			"image":"amp.png",
-			"content":"<b>Es ist geschafft, Chaosconsulting hat ein neues Zuhause!</b><br><br>Ab sofort findet ihr uns am alten Rathausplatz 12 über der Engelapotheke, der Zugang liegt an der Wermingser Straße.<br><br>Besucht uns einfach mal während unserer Öffnungszeiten:<br><ul><li>jeden Mittwoch von 17:30-21:30  Allgemeines Basteln und OpenSource-Themen</li><li>am 2. Samstag im Monat um 15 Uhr Vortrag mit wechselndem Thema ab 16 Uhr</li><li>am 4. Donnerstag im Monat um 19 Uhr Freifunk Treffen</li></ul><br><div style='width:960px;margin-left:auto;margin-right:auto'><img src='gfx/aussen.jpg', width='320', height='180'><img src='gfx/innen.jpg', width='320', height='180'><a href='map.php'><img src='gfx/map.jpg', width='320', height='180'></a></div>"
+			"content":"Ihr findet uns am alten Rathausplatz 12 über der Engelapotheke, der Zugang liegt an der Wermingser Straße.<br><br>Besucht uns einfach mal während unserer Öffnungszeiten:<br><ul><li>jeden Mittwoch von 17:30 - 21:30 Allgemeines Basteln und OpenSource-Themen</li><li>am 2. Samstag im Monat um 15 Uhr Sysstat (Vereinststatus und -themen), ab 16 Uhr Vortrag mit wechselndem Thema</li><li>am 4. Donnerstag im Monat um 19 Uhr Freifunk Treffen</li></ul><br><div style='width:960px;margin-left:auto;margin-right:auto'><img src='gfx/aussen.jpg', width='320', height='180'><img src='gfx/innen.jpg', width='320', height='180'><a href='map.php'><img src='gfx/map.jpg', width='320', height='180'></a></div>"
 		}
 	],
 	"contribute":[
@@ -118,7 +113,7 @@
 		}
 	],
 	"termine":[
-			{
+		{
 			"icon":"",
 			"headline":"Eröffnungsgrillen",
 			"date":"20150530",
@@ -336,13 +331,45 @@
 		},
 		{
 			"icon":"user-plus",
+			"headline":"Sysstat",
+			"date":"20160813",
+			"time":"1500",
+			"image":"cal.png",
+			"content":"Jeden 2. Samstag im Monat Vereinsstatus und -themen"
+		},
+		{
+			"icon":"book",
+			"headline":"PHP/SQL",
+			"date":"20160813",
+			"time":"1600",
+			"image":"cal.png",
+			"content":"Einführung in die Programmiersprache PHP, speziell in Verbindung mit SQL für Datenbankzugriffe."
+		},
+		{
+			"icon":"user-plus",
 			"headline":"Chaostreff",
 			"date":"20160825",
 			"time":"1900",
 			"image":"cal.png",
 			"content":"Immer am vierten Donnerstag im Monat trifft sich der Iserlohner Chaostreff um 19 Uhr in der <a href='https://www.openstreetmap.org/#map=19/51.37433/7.69824'>Alter Rathausplatz 12 in 58636 Iserlohn <i class='fa fa-map-marker'></i></a>. Das monatliche Treffen ist eine gute Möglichkeit für Interessierte den Chaostreff einmal näher kennen zu lernen. Unsere Mitglieder kommen aus dem gesamten Märkischen Kreis und arbeiten gemeinsam unter anderem an ihren Projekten, halten Vorträge und entwickeln neue Projektideen.<br><br>Komm doch einfach mal vorbei!"
 		},
-				{
+		{
+			"icon":"user-plus",
+			"headline":"Sysstat",
+			"date":"20160910",
+			"time":"1500",
+			"image":"cal.png",
+			"content":"Jeden 2. Samstag im Monat Vereinsstatus und -themen"
+		},
+		{
+			"icon":"book",
+			"headline":"Ansible und Docker",
+			"date":"20160910",
+			"time":"1600",
+			"image":"cal.png",
+			"content":"Vorstellung von Docker und Ansible: wie kann man sich die Administration von Servern vereinfachen und ein reproduzierbares Deployment von Anwendungen realisieren."
+		},
+		{
 			"icon":"user-plus",
 			"headline":"Chaostreff",
 			"date":"20160922",
@@ -350,7 +377,15 @@
 			"image":"cal.png",
 			"content":"Immer am vierten Donnerstag im Monat trifft sich der Iserlohner Chaostreff um 19 Uhr in der <a href='https://www.openstreetmap.org/#map=19/51.37433/7.69824'>Alter Rathausplatz 12 in 58636 Iserlohn <i class='fa fa-map-marker'></i></a>. Das monatliche Treffen ist eine gute Möglichkeit für Interessierte den Chaostreff einmal näher kennen zu lernen. Unsere Mitglieder kommen aus dem gesamten Märkischen Kreis und arbeiten gemeinsam unter anderem an ihren Projekten, halten Vorträge und entwickeln neue Projektideen.<br><br>Komm doch einfach mal vorbei!"
 		},
-				{
+		{
+			"icon":"user-plus",
+			"headline":"Sysstat",
+			"date":"20161008",
+			"time":"1500",
+			"image":"cal.png",
+			"content":"Jeden 2. Samstag im Monat Vereinsstatus und -themen"
+		},
+		{
 			"icon":"user-plus",
 			"headline":"Chaostreff",
 			"date":"20161027",
@@ -365,30 +400,6 @@
 			"time":"1900",
 			"image":"cal.png",
 			"content":"Immer am vierten Donnerstag im Monat trifft sich der Iserlohner Chaostreff um 19 Uhr in der <a href='https://www.openstreetmap.org/#map=19/51.37433/7.69824'>Alter Rathausplatz 12 in 58636 Iserlohn <i class='fa fa-map-marker'></i></a>. Das monatliche Treffen ist eine gute Möglichkeit für Interessierte den Chaostreff einmal näher kennen zu lernen. Unsere Mitglieder kommen aus dem gesamten Märkischen Kreis und arbeiten gemeinsam unter anderem an ihren Projekten, halten Vorträge und entwickeln neue Projektideen.<br><br>Komm doch einfach mal vorbei!"
-		},
-		{
-			"icon":"user-plus",
-			"headline":"Chaostreff",
-			"date":"20160728",
-			"time":"1900",
-			"image":"cal.png",
-			"content":"Immer am vierten Donnerstag im Monat trifft sich der Iserlohner Chaostreff um 19 Uhr in der <a href='https://www.openstreetmap.org/#map=19/51.37433/7.69824'>Alter Rathausplatz 12 in 58636 Iserlohn <i class='fa fa-map-marker'></i></a>. Das monatliche Treffen ist eine gute Möglichkeit für Interessierte den Chaostreff einmal näher kennen zu lernen. Unsere Mitglieder kommen aus dem gesamten Märkischen Kreis und arbeiten gemeinsam unter anderem an ihren Projekten, halten Vorträge und entwickeln neue Projektideen.<br><br>Komm doch einfach mal vorbei!"
-		},
-				{
-			"icon":"lock",
-			"headline":"PHP/SQL",
-			"date":"20160813",
-			"time":"1600",
-			"image":"cal.png",
-			"content":"Einführung in die Programmiersprache PHP, speziell in Verbindung mit SQL für Datenbankzugriffe."
-		},
-		{
-			"icon":"lock",
-			"headline":"Ansible und Docker",
-			"date":"20160910",
-			"time":"1600",
-			"image":"cal.png",
-			"content":"Vorstellung von Docker und Ansible: wie kann man sich die Administration von Servern vereinfachen und ein reproduzierbares Deployment von Anwendungen realisieren."
 		}
 	],
 	"mehr":[
@@ -415,7 +426,7 @@
 			"icon":"link",
 			"headline":"Links",
 			"image":"led.png",
-			"content":"<a href='http://hasi.it'>HaSi</a><br><a href='http://chaostreff-siegen.de/'>Chaostreff Siegen</a><br><a href='http://chaospott.de/'>Chaospott Essen</a><br><a href='http://www.chaos-west.de/planet/'>Chaos-West</a>"
+			"content":"<a href='http://hasi.it'>HaSi</a><br><a href='http://chaostreff-siegen.de/'>Chaostreff Siegen</a><br><a href='http://chaospott.de/'>Chaospott Essen</a><br><a href='http://www.chaos-west.de'>Chaos-West</a>"
 		}
 	]
 }
