@@ -386,12 +386,36 @@
 			"content":"Jeden 2. Samstag im Monat Vereinsstatus und -themen"
 		},
 		{
+			"icon":"book",
+			"headline":"Vortrag: Fotografie und RAW Bearbeitung",
+			"date":"20161008",
+			"time":"1600",
+			"image":"cal.png",
+			"content":"Einführung in die digitale Fotografie und Bildbearbeitung im RAW Format."
+		},
+		{
 			"icon":"user-plus",
 			"headline":"Freifunk-Treffen",
 			"date":"20161027",
 			"time":"1900",
 			"image":"cal.png",
 			"content":"Immer am vierten Donnerstag im Monat treffen sich Freifunk-Interessierte beim Iserlohner Chaostreff um 19 Uhr hier: <a href='https://www.openstreetmap.org/#map=19/51.37433/7.69824'>Alter Rathausplatz 12 in 58636 Iserlohn <i class='fa fa-map-marker'></i></a>. Das monatliche Treffen ist eine gute Möglichkeit für Interessierte den Chaostreff einmal näher kennen zu lernen. Unsere Mitglieder kommen aus dem gesamten Märkischen Kreis und arbeiten gemeinsam unter anderem an ihren Projekten, halten Vorträge und entwickeln neue Projektideen.<br><br>Komm doch einfach mal vorbei!"
+		},
+		{
+			"icon":"user-plus",
+			"headline":"Chaostreff: Sysstat",
+			"date":"20161112",
+			"time":"1500",
+			"image":"cal.png",
+			"content":"Jeden 2. Samstag im Monat Vereinsstatus und -themen"
+		},
+		{
+			"icon":"book",
+			"headline":"Vortrag: Openstreetmap",
+			"date":"20161112",
+			"time":"1600",
+			"image":"cal.png",
+			"content":"Kurze Übersicht über OpenStreetmap, im Anschluss eventuell Exkursion um die Map der Umgebung zu verbessern."
 		},
 		{
 			"icon":"user-plus",
