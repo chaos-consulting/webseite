@@ -416,7 +416,7 @@
 			"time":"1600",
 			"image":"cal.png",
 			"content":"Kurze Übersicht über OpenStreetmap, im Anschluss eventuell Exkursion um die Map der Umgebung zu verbessern."
-		},
+		},		
 		{
 			"icon":"user-plus",
 			"headline":"Freifunk-Treffen",
@@ -424,9 +424,17 @@
 			"time":"1900",
 			"image":"cal.png",
 			"content":"Immer am vierten Donnerstag im Monat treffen sich Freifunk-Interessierte beim Iserlohner Chaostreff um 19 Uhr hier: <a href='https://www.openstreetmap.org/#map=19/51.37433/7.69824'>Alter Rathausplatz 12 in 58636 Iserlohn <i class='fa fa-map-marker'></i></a>. Das monatliche Treffen ist eine gute Möglichkeit für Interessierte den Chaostreff einmal näher kennen zu lernen. Unsere Mitglieder kommen aus dem gesamten Märkischen Kreis und arbeiten gemeinsam unter anderem an ihren Projekten, halten Vorträge und entwickeln neue Projektideen.<br><br>Komm doch einfach mal vorbei!"
+		},
+		{
+			"icon":"user-plus",
+			"headline":"We will (try to) fix your Computer!",
+			"date":"20161214",
+			"time":"1730",
+			"image":"cal.png",
+			"content":"We will (try to) fix your Computer! Das heißt, Ihr kommt mit eurem Rechner (Handy/Tablet) und/oder euren Fragen zur Kauf/Einrichtung/Installation in unsere Räumlichkeiten und wir werden euch helfen und unterstützen, das Problem zu beseitigen bzw. eure Fragen zu beantworten."
 		}
 	],
-	"mehr":[
+	"mehr":
 		{
 			"icon":"home",
 			"headline":"Home",
