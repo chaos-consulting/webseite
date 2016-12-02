@@ -427,14 +427,6 @@
 		},
 		{
 			"icon":"user-plus",
-			"headline":"We will (try to) fix your Computer!",
-			"date":"20161214",
-			"time":"1730",
-			"image":"cal.png",
-			"content":"We will (try to) fix your Computer! Das heißt, Ihr kommt mit eurem Rechner (Handy/Tablet) und/oder euren Fragen zur Kauf/Einrichtung/Installation in unsere Räumlichkeiten und wir werden euch helfen und unterstützen, das Problem zu beseitigen bzw. eure Fragen zu beantworten."
-		},
-		{
-			"icon":"user-plus",
 			"headline":"Chaostreff: Sysstat",
 			"date":"20161210",
 			"time":"1500",
@@ -448,6 +440,14 @@
 			"time":"1600",
 			"image":"cal.png",
 			"content":"Vorstellung der Virtualisierungslösung Proxmox VE. Anschliessend Weihnachtsfeier."
+		},
+		{
+			"icon":"user-plus",
+			"headline":"We will (try to) fix your Computer!",
+			"date":"20161214",
+			"time":"1730",
+			"image":"cal.png",
+			"content":"We will (try to) fix your Computer! Das heißt, Ihr kommt mit eurem Rechner (Handy/Tablet) und/oder euren Fragen zur Kauf/Einrichtung/Installation in unsere Räumlichkeiten und wir werden euch helfen und unterstützen, das Problem zu beseitigen bzw. eure Fragen zu beantworten."
 		}
 	],
 	"mehr":[
