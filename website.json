@@ -450,18 +450,10 @@
 			"content":"We will (try to) fix your Computer! Das heißt, Ihr kommt mit eurem Rechner (Handy/Tablet) und/oder euren Fragen zur Kauf/Einrichtung/Installation in unsere Räumlichkeiten und wir werden euch helfen und unterstützen, das Problem zu beseitigen bzw. eure Fragen zu beantworten."
 		},
 		{
-			"icon":"user-plus",
-			"headline":"Chaostreff: Sysstat",
-			"date":"20170114",
-			"time":"1500",
-			"image":"cal.png",
-			"content":"Jeden 2. Samstag im Monat Vereinsstatus und -themen"
-		},
-		{
 			"icon":"book",
 			"headline":"Mitgliederversammlung",
-			"date":"20170208",
-			"time":"1600",
+			"date":"20170114",
+			"time":"1500",
 			"image":"cal.png",
 			"content":"Mitgliederversammlung. Geschlossene Gesellschaft."
 		},
