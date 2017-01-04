@@ -527,6 +527,14 @@
 			"content":"Platzhalter für Vortrag"
 		},
 		{
+			"icon":"linux",
+			"headline":"EasterHegg",
+			"date":"20170414",
+			"time":"1000",
+			"image":"congress.png",
+			"content":"Am Wochenende vom 14. bis zum 17. April reist das Chaos zur EasterHegg nach Mühlheim am Main<br><br><a href='https://eh17.easterhegg.eu'>eh17.easterhegg.eu</a>"
+		},
+		{
 			"icon":"user-plus",
 			"headline":"We will (try to) fix your Computer!",
 			"date":"20170510",
@@ -549,6 +557,14 @@
 			"time":"1600",
 			"image":"cal.png",
 			"content":"Platzhalter für Vortrag"
+		},
+		{		
+			"icon":"linux",
+			"headline":"GPN-Gullaschprogrammiernacht",
+			"date":"20170525",
+			"time":"1000",
+			"image":"congress.png",
+			"content":"Am Wochenende vom 25. bis zum 28. Mai reist das Chaos zur Gullaschprogrammiernacht nach Karlsruhe.<br><br><a href='https://entropia.de/GPN'>entropia.de</a>"
 		},
 		{
 			"icon":"user-plus",
