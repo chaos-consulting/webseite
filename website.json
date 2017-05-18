@@ -26,11 +26,6 @@
 			"url":"http://chaos-consulting.de/feeds/ical"
 		},
 		{
-			"icon":"rss",
-			"name":"Termine Abbonieren (.rss)",
-			"url":"http://chaos-consulting.de/feeds/rss"
-		},
-		{
 			"icon":"plane",
 			"name":"ADS-B Flugzeugkarte",
 			"url":"https://adsb.chaos-consulting.de"
