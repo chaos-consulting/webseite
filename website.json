@@ -49,11 +49,6 @@
 		},
 		{
 			"icon":"",
-			"name":"Termine",
-			"url":"events.php"
-		},
-		{
-			"icon":"",
 			"name":"Mitmachen",
 			"url":"contribute.php"
 		},
