@@ -18,7 +18,7 @@
 		{
 			"icon":"calendar",
 			"name":"Termine Abbonieren (.ical)",
-			"url":"http://chaos-consulting.de/feeds/ical"
+			"url":"https://chaos-consulting.de/feeds/ical"
 		},
 		{
 			"icon":"plane",
@@ -592,7 +592,7 @@
 			"icon":"institution",
 			"headline":"Verein",
 			"image":"led.png",
-			"content":"<a href='http://chaos-consulting.de/verein/satzung.pdf'>Satzung</a><br><br><a href='http://chaos-consulting.de/verein/antrag.pdf'>Mitgliedsantrag</a><br><br><a href='http://chaos-consulting.de/verein/sepa.pdf'>Sepa Formular</a>"
+			"content":"<a href='https://chaos-consulting.de/verein/satzung.pdf'>Satzung</a><br><br><a href='https://chaos-consulting.de/verein/antrag.pdf'>Mitgliedsantrag</a><br><br><a href='https://chaos-consulting.de/verein/sepa.pdf'>Sepa Formular</a>"
 		},
 		{
 			"icon":"eur",
@@ -604,7 +604,7 @@
 			"icon":"link",
 			"headline":"Links",
 			"image":"led.png",
-			"content":"<a href='http://hasi.it'>HaSi</a><br><a href='http://chaostreff-siegen.de/'>Chaostreff Siegen</a><br><a href='http://chaospott.de/'>Chaospott Essen</a><br><a href='http://www.chaos-west.de'>Chaos-West</a>"
+			"content":"<a href='https://hasi.it'>HaSi</a><br><a href='https://chaostreff-siegen.de/'>Chaostreff Siegen</a><br><a href='https://chaospott.de/'>Chaospott Essen</a><br><a href='https://www.chaos-west.de'>Chaos-West</a>"
 		}
 	]
 }
