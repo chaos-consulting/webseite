@@ -39,6 +39,11 @@
 		},
 		{
 			"icon":"",
+			"name":"Stream",
+			"url":"stream.php"
+		},
+		{
+			"icon":"",
 			"name":"Projekte",
 			"url":"projects.php"
 		},
